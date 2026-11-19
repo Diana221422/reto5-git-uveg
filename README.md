@@ -12,3 +12,15 @@ Estoy aprendiendo a utilizar Git y GitHub para
 
 administrar versiones de proyectos de software.
 
+
+
+
+
+\## Rama de pruebas
+
+
+
+Esta sección demuestra el trabajo realizado
+
+en una rama independiente utilizando Git.
+
